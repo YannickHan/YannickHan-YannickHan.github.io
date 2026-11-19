@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/YannickHan/YannickHan-YannickHan.github.io.git/static/css/main.ebc5cf0f.css",
-    "main.js": "/YannickHan/YannickHan-YannickHan.github.io.git/static/js/main.30894cbd.js",
-    "static/js/453.0b72f93f.chunk.js": "/YannickHan/YannickHan-YannickHan.github.io.git/static/js/453.0b72f93f.chunk.js",
-    "index.html": "/YannickHan/YannickHan-YannickHan.github.io.git/index.html",
-    "main.ebc5cf0f.css.map": "/YannickHan/YannickHan-YannickHan.github.io.git/static/css/main.ebc5cf0f.css.map",
-    "main.30894cbd.js.map": "/YannickHan/YannickHan-YannickHan.github.io.git/static/js/main.30894cbd.js.map",
-    "453.0b72f93f.chunk.js.map": "/YannickHan/YannickHan-YannickHan.github.io.git/static/js/453.0b72f93f.chunk.js.map"
+    "main.css": "/YannickHan-YannickHan.github.io/static/css/main.ebc5cf0f.css",
+    "main.js": "/YannickHan-YannickHan.github.io/static/js/main.e6a1aa4a.js",
+    "static/js/453.0b72f93f.chunk.js": "/YannickHan-YannickHan.github.io/static/js/453.0b72f93f.chunk.js",
+    "index.html": "/YannickHan-YannickHan.github.io/index.html",
+    "main.ebc5cf0f.css.map": "/YannickHan-YannickHan.github.io/static/css/main.ebc5cf0f.css.map",
+    "main.e6a1aa4a.js.map": "/YannickHan-YannickHan.github.io/static/js/main.e6a1aa4a.js.map",
+    "453.0b72f93f.chunk.js.map": "/YannickHan-YannickHan.github.io/static/js/453.0b72f93f.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.ebc5cf0f.css",
-    "static/js/main.30894cbd.js"
+    "static/js/main.e6a1aa4a.js"
   ]
 }
